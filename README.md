@@ -1,6 +1,5 @@
 Cosmetic-ecommerce
-This is the central repository for the **Laptop E-Commerce ** project, which includes both web and mobile applications for an online laptop store.
-
+This is the central repository for the Cosmetic E-commerce project — a full-featured platform designed for selling cosmetic products across web and mobile applications.
 ## Overview
 The project is divided into four main components:
 1. **Frontend**: Web application for users to browse, purchase cosmetic, and manage their orders and chatbot support.
